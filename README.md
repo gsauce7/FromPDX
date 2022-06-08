@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Welcome to FromPDX. I started with a Tutorial from Brad Traversy and Denis Ivanov (Dennis Ivy) on Udemy and am building out FromPDX as proof of concept, my first real life Full Stack app. This project is about helping people find the coolest stuff and services from companies founded in the Greater Portland Area.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
